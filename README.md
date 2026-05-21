@@ -25,8 +25,8 @@ import numpy as np
 A=np.array([[-2,2,-3],[2,1,-6],[-1,-2,0]])
 val,vec=np.linalg.eig(A)
 print(f"Eigen values are {val} and Eigen Vectors are {vec}")
-## Output:
 ```
+## Output:
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/c368d888-9ed2-48fe-8bbd-45acbf8e24f4" />
 
 ## Result:
